@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nome do Projeto
 
-## Getting Started
+## Dashboard 
 
-First, run the development server:
+## Descrição do projeto.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+ ### O que ele faz? 
+ 
+Desenvolvi um
+hashtag
+Dashboard responsivo com
+hashtag
+Nextjs,
+hashtag
+TailwindCSS e
+hashtag
+ShadCN para visualizar vendas, clientes e estatísticas!
+Utilizando
+hashtag
+Recharts para gráficos interativos, garantindo insights rápidos e precisos! 
+ 
+ ### Qual o seu propósito? Análise vendas e novos clientes 
+ 
+ Facilitar a organização de tarefas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tecnologias 
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+ • HTML5 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+• Tailwind
 
-## Learn More
+• Nextjs
+• ShadCN
+• Recharts
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+ ## Demonstração
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+https://lnkd.in/drBWBUga
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![desh](https://github.com/user-attachments/assets/8cc5232c-d16d-4faf-aeec-d41c6ec4f2bf)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+## Instalação e Uso 
+1. Clone o repositório: git clone https://lnkd.in/dmREza_J
+2. Acesse a pasta do projeto: cd nome-do-repositorio 
+3. Instale as dependências (se houver): npm install 
+4. Inicie o projeto: npm start  
+
+## Funcionalidades
+
+ Desenvolvi um quadro de tarefas interativo com drag and drop, usando JavaScript ! 📝✨
+
+ ## Contribuição Se quiser contribuir com este projeto: 
+
+1. Faça um fork do repositório. 
+2. Crie uma branch com a sua feature: git checkout -b minha-feature 
+3. Faça o commit das suas alterações: git commit -m 'Minha nova feature' 
+4. Faça um push para a branch: git push origin minha-feature 
+5. Abra um Pull Request. 
+
+## Licença
+ Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+ 
+ ## Contato 11.96133-6586 
+  
+## Email: ariele.front@gmail.com
+ 
+##  LinkedIn: https://www.linkedin.com/in/ariele-silvaaa/
+  
+  Portfólio: 
+
